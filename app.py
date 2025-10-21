@@ -33,7 +33,7 @@ with st.spinner("Cargando modelo IA..."):
 data = np.ndarray(shape=(1, 224, 224, 3), dtype=np.float32)
 
 # --- IMAGEN ILUSTRATIVA ---
-image = Image.open('OIG5.jpg')
+image = Image.open('2a9847d15807e6bc8037c57afa472967.jpg')
 st.image(image, width=300, caption="Modelo entrenado en Teachable Machine")
 
 # --- SIDEBAR ---
