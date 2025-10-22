@@ -16,7 +16,7 @@ st.set_page_config(
 # --- ENCABEZADO PRINCIPAL ---
 st.markdown(
     """
-    <h1 style='text-align:center; color:#4A90E2;'>🧠 Reconocimiento de Imágenes con IA</h1>
+    <h1 style='text-align:center; color:#4A90E2;'>Reconocimiento de Imágenes con IA</h1>
     <p style='text-align:center; font-size:17px;'>
     Usa un modelo entrenado en <b>Teachable Machine</b> para identificar objetos o gestos desde tu cámara.
     </p>
